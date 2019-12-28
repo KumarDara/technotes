@@ -1,0 +1,4 @@
+Array:
+  Array is a simple data structer to store elements with predefined size of homogenous type of data.
+  E.g:
+    int[] arr = new int[5];
